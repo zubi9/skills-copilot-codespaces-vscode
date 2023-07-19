@@ -1,0 +1,11 @@
+{
+    // Development container for copilot with the list of extensions.
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}

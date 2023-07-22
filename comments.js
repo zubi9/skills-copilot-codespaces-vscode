@@ -1,4 +1,4 @@
-//Create a web server that can listen to requests for /comments and send back the JSON file, comments.json, to the user.
+//Create web server that can listen to requests for comments and send back the JSON file, comments.json, to the user.
 
 // Import the express library here
 const express = require('express');
